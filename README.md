@@ -1,5 +1,5 @@
 # Guessing Game
 
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: 05 Aug 2019 00:56:17
 
 No. of lines in **guessinggame.sh** is 20
