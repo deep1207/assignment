@@ -1,5 +1,8 @@
+#!/usr/bin/env bash
+
 guess=-1
 answer=$(ls -1 | wc -l)
+
 echo "how many files are in the current directory ?"
 
 function guessgame {
